@@ -6,14 +6,9 @@ In order to test whether your webpage is possible to navigate with a
 keyboard only, it is good to know a few shortcuts to fulfill some WCAG
 criteria.
 
+> For a table of shortcuts across softwares used, see the file "DSR_survival_guide"
+
 ### 
-
-### General Keyboard navigation keys
-
-TODO: må ta dette på hjemmekontor, for å faktisk få testa ut hvilke
-shortcuts som fungerer
-
-<https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec>
 
 # Narrator
 
@@ -22,6 +17,16 @@ like most windows users prefer to use external screen reading
 applications.
 
 <https://support.microsoft.com/en-us/windows/complete-guide-to-narrator-e4397a0d-ef4f-b386-d8ae-c172f109bdb1>
+
+## (A few) Keyboard shortcuts
+Turn on screenreader:  Windows logo + Control + Enter
+Turn off screenreader:  Windows logo + Control + Enter  OR  Caps Lock + Escape
+Stop reading: Control
+Switch window: Alt + tab
+Show list of all headers: Caps-lock + H
+Navigate to next header: H 
+Go to next focusable item: Tab
+
 
 # NVDA
 
