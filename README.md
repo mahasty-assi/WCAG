@@ -6,7 +6,7 @@ Select between:
 - Manually testing a web user interface By using the "WCAG Workshop - Criteria" document
 - Using the WAVE evaluation tool on a web page
 - Assessing the rules and regulations for your country by checking the official policies on W3
-- Learn how to use voiceover and keyboard navigation with help from guides in the folder "Voiceover and keyboard navigation"
+- Learn how to use voiceover and keyboard navigation with help from guides in the appropriate operating system folder ("MacOS" or "Windows")
 
 
 ## Official resources 
